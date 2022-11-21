@@ -1,0 +1,20 @@
+EA     ./textures/tech_0G.xpm
+
+SO        ./textures/concrete.xpm
+
+        NO    ./textures/win_blue_light.xpm
+
+       WE       ./textures/blue_light.xpm
+
+
+       F     255 , 255 , 255
+
+
+C 2 , 47 , 56
+
+111111
+100001
+100101
+100001
+1N0001
+111111

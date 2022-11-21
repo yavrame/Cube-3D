@@ -1,0 +1,20 @@
+SO        ./textures/grass.xpm
+
+        NO    ./textures/wood.xpm
+
+       WE       ./textures/blue_light.xpm
+
+EA        ./textures/tile.xpm
+
+
+       F     255 , 255 , 255
+
+
+C 2 , 47 , 56
+
+111111
+100101
+100101
+100001
+10W001
+111111
